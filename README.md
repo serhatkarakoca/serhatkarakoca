@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-serhatkarakoca&color=green)
 
-![alt text](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg?raw=true=10x10)
+![alt text](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg=10x10?raw=true)
 
 💻 Programming languages I have worked before <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="kotlin" width="30" height="30"/><img src="" alt="kotlin" width="30" height="30"/>
