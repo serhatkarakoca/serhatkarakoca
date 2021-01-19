@@ -4,9 +4,6 @@
 
 
 
-💻 Programming languages I have worked before <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="kotlin" width="30" height="30"/><img src="" alt="java" width="30" height="30"/>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=serhatkarakoca&show_icons=true&theme=merko)
 <!--
 
