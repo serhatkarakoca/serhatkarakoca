@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-serhatkarakoca&color=green)
 
 
+<!--
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=serhatkarakoca&show_icons=true&theme=merko)
-<!--
 
 
 Here are some ideas to get you started:
