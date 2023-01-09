@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=07B6F7&center=true&lines=Hi!%F0%9F%99%82+I'm+Serhat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=07B6F7&center=true&lines=Hi!+I'm+Serhat.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=your-github-serhatkarakoca&color=green)
+<!--![](https://komarev.com/ghpvc/?username=your-github-serhatkarakoca&color=green)-->
 
 
 <!--
